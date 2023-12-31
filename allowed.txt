@@ -75,9 +75,6 @@ servicename.googleapis.com
 geo0.ggpht.com
 geo2.ggpht.com
 geo3.ggpht.com
-lh3.ggpht.com
-lh5.ggpht.com
-lh6.ggpht.com
 cbks0.google.com
 cbks0.googleapis.com
 cbks1.google.com
