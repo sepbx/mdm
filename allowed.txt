@@ -1,3 +1,5 @@
+gsl.samsunggsl.com
+time.google.com
 pinning-02.secb2b.com
 sfepodownload.mediatek.com
 mdm.sepbxservices.com
