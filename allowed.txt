@@ -1,3 +1,4 @@
+mdm.sepbxservices.com
 reminders-pa.googleapis.com
 signaler-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
