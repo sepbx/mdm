@@ -1,3 +1,4 @@
+sfepodownload.mediatek.com
 mdm.sepbxservices.com
 reminders-pa.googleapis.com
 signaler-pa.googleapis.com
