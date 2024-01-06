@@ -118,6 +118,5 @@ khmdb0.google.com
 maps.googleapis.com
 fonts.gstatic.com
 maps.gstatic.com
-us-prod-klm.secb2b.com
 files.sepbxservices.com
 firebaselogging-pa.googleapis.com
