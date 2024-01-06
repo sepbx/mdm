@@ -53,8 +53,6 @@ samsungcloud.com
 android.clients.google.com
 time.android.com
 samsunggsl.com
-secb2b.com
-firebase-settings.crashlytics.com
 samsungdm.com
 voilatile-pa.googleapis.com
 vzwwo.com
