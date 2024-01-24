@@ -10,9 +10,6 @@ mdh-pa.googleapis.com
 mobilemaps-pa.googleapis.com
 sepbxservices.com
 speechs3proto2-pa.googleapis.com
-play-fe.googleapis.com
-play.googleapis.com
-play.google.com
 clients3.google.com
 www.manageengine.com
 vas.samsungapps.com
