@@ -1,6 +1,6 @@
 rtproxy-na-ipv6.waze.com
-ctilesgcs-am-ipv6.waze.com
 lh5.ggpht.com
+ctilesgcs-am-ipv6.waze.com
 gsl.samsunggsl.com
 time.google.com
 pinning-02.secb2b.com
