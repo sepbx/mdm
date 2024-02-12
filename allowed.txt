@@ -69,7 +69,6 @@ samsungvisioncloud.com
 connectivitycheck.gstatic.com
 android.apis.google.com
 alt3-mtalk.google.com
-android.googleapis.com
 alt7-mtalk.google.com
 geomobileservices-pa.googleapis.com
 ssl.gstatic.com
