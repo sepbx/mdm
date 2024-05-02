@@ -74,7 +74,6 @@ alt3-mtalk.google.com
 alt7-mtalk.google.com
 geomobileservices-pa.googleapis.com
 ssl.gstatic.com
-mobilemaps.googleapis.com
 fonts.googleapis.com
 routes.googleapis.com
 servicename.googleapis.com
