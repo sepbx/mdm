@@ -2,6 +2,7 @@ encrypted-tbn3.gstatic.com
 api.nesiyatova.com
 android.googleapis.com
 timeline.google.com
+mobilemaps.googleapis.com
 renderer-am-ipv6.waze.com
 cresg-ipv6.waze.com
 tts-ipv6.waze.com
