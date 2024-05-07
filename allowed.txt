@@ -1,4 +1,3 @@
-encrypted-tbn3.gstatic.com
 api.nesiyatova.com
 android.googleapis.com
 timeline.google.com
@@ -62,7 +61,6 @@ samsunggsl.com
 samsungdm.com
 voilatile-pa.googleapis.com
 vzwwo.com
-encrypted-tbn1.gstatic.com
 accounts.google.com
 mtalk.google.com
 android-context-data.googleapis.com
