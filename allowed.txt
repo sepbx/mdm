@@ -23,7 +23,6 @@ speechs3proto2-pa.googleapis.com
 clients3.google.com
 www.manageengine.com
 vas.samsungapps.com
-clients4.google.com
 www.gstatic.com
 mobile-proxy.sepbxservices.com
 deviceintegritytokens-pa.googleapis.com
