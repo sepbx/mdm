@@ -1,3 +1,5 @@
+clients4.google.com
+encrypted-tbn1.gstatic.com
 api.nesiyatova.com
 android.googleapis.com
 timeline.google.com
