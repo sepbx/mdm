@@ -61,7 +61,6 @@ samsunggsl.com
 samsungdm.com
 voilatile-pa.googleapis.com
 vzwwo.com
-accounts.google.com
 mtalk.google.com
 android-context-data.googleapis.com
 firebaseinstallations.googleapis.com
