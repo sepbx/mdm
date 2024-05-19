@@ -3,6 +3,7 @@ api.nesiyatova.com
 android.googleapis.com
 timeline.google.com
 rtproxy-row.waze.com
+rtproxy-row-l7.waze.com
 mobilemaps.googleapis.com
 renderer-am-ipv6.waze.com
 cresg-ipv6.waze.com
