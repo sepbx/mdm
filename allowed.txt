@@ -55,7 +55,6 @@ digitalassetlinks.googleapis.com
 dl.google.com
 csp.withgoogle.com
 android-safebrowsing.google.com
-app-measurement.com
 samsungcloud.com
 android.clients.google.com
 time.android.com
