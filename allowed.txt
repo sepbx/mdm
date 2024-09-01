@@ -50,8 +50,6 @@ userlocation.googleapis.com
 ospserver.net
 gvt1.com
 samsungknox.com
-phonedeviceverification-pa.googleapis.com
-digitalassetlinks.googleapis.com
 dl.google.com
 csp.withgoogle.com
 android-safebrowsing.google.com
@@ -60,7 +58,6 @@ android.clients.google.com
 time.android.com
 samsunggsl.com
 samsungdm.com
-voilatile-pa.googleapis.com
 vzwwo.com
 mtalk.google.com
 android-context-data.googleapis.com
