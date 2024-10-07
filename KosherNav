@@ -72,3 +72,6 @@
 #Mediatek CPU
 @@||sfepodownload.mediatek.com
 @@||sgepodownload.mediatek.com
+
+#Block All
+||*.*
