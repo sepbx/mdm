@@ -52,7 +52,9 @@
 @@||android.googleapis.com
 @@||android.clients.google.com
 @@||lh5.ggpht.com
-@@||metric.gstatic.com^
+@@||*.metric.gstatic.com
+@@||mtalk.google.com
+@@||alt*-mtalk.google.com
 @@||storage.googleapis.com^
 @@||offline-maps.gvt1.com^
 
