@@ -28,6 +28,7 @@
 @@||sdk.waze.com
 @@||rtproxy-na-l7.waze.com
 @@||rt.waze.com
+@@||wig-am.waze.com
 
 #Google APIs
 @@||reminders-pa.googleapis.com
@@ -78,3 +79,5 @@
 #Mediatek CPU
 @@||sfepodownload.mediatek.com
 @@||sgepodownload.mediatek.com
+@@||repodownload.mediatek.com
+@@||rgepodownload.mediatek.com
