@@ -8,6 +8,8 @@
 @@||maps.l.google.com
 @@||mobilemaps-pa-gz.googleapis.com
 @@||userlocation.googleapis.com
+@@||storage.googleapis.com^
+@@||offline-maps.gvt1.com^
 
 #Waze Allow List
 @@||renderer-am-ipv6.waze.com
@@ -57,8 +59,6 @@
 @@||mtalk.google.com
 @@||voilatile-pa.googleapis.com
 @@||alt*-mtalk.google.com
-@@||storage.googleapis.com^
-@@||offline-maps.gvt1.com^
 
 #NTP
 @@||time.google.com
